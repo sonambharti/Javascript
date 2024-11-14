@@ -1,0 +1,29 @@
+/* h1{
+    color: blue;
+    text-decoration: line-through;
+    background-color: yellow;
+} */
+
+/* #heading{
+    color: brown;
+    text-decoration: line-through; 
+    background-color: yellow;
+}
+body{
+    background-color: pink;
+}
+button{
+    color: green;
+} */
+
+div{
+    color: blue;
+    background-color: pink;
+    height: 200px;
+    width: 200px;
+}
+#box-text{
+    position: relative;
+    /* top: 50%;
+    left:50%; */
+}

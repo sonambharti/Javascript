@@ -1,0 +1,14 @@
+div {
+    height: 200px;
+    background-color: aquamarine;
+
+}
+/* 
+div:hover{
+    background-color: blue;
+} */
+
+#mode-btn{
+    background-color: green;
+    color: white;
+}
